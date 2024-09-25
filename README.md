@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ran 👩🏻‍💻
 
-- 👩‍💻 Web Developer | Full Stack Developer
+- 🌱 I’m currently studying in the BCIT CST Program
 - 📫 How to reach me: [smileyran@gmail.com](mailto:smileyran@gmail.com)
 
 ## 💻 Programming Languages
