@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ran 👩🏻‍💻
 
-- 🌱 I’m currently studying in the BCIT CST Program
+- 🎓 BCIT Computer System Alumni
 - 📫 How to reach me: [smileyran@gmail.com](mailto:smileyran@gmail.com)
 
 ## 💻 Programming Languages
